@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-upscale"
+description = "Efficient upscaling node with FP16 and batch processing support for ComfyUI"
+version = "0.1.0"
+license = { text = "MIT License" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/ComfyUI-Upscale"
+
+[tool.comfy]
+PublisherId = "YOUR_USERNAME"
+DisplayName = "ComfyUI-Upscale"
+Icon = ""
